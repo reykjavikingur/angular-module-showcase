@@ -1,0 +1,1 @@
+angular.module('showcase', ['ui.router', 'showcase.util']);
