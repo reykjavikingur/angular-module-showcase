@@ -1,6 +1,6 @@
-# Angular Starter Normal
+# Angular Module Showcase
 
-Angular JS project starter template for slightly more scalable cases
+Template for Angular module project with component library.
 
 # Installation
 
