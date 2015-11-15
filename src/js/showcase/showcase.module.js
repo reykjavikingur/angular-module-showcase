@@ -1,1 +1,1 @@
-angular.module('showcase', ['ui.router', 'showcase.util']);
+angular.module('showcase', ['ui.router', 'showcase.util', 'ngAnimate']);
